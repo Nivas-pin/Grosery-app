@@ -98,7 +98,7 @@
     }
     .deal-section {
       margin-top: 20px;
-      background: url('deal-bg.jpg') no-repeat center/cover; 
+      background: url('images/deal-bg.jpg') no-repeat center/cover; 
       padding: 60px 60px;
       position: relative;
     }
@@ -141,7 +141,7 @@
       background: #f4f4f4;
       padding: 50px 0;
       text-align: center;
-      background: url('newsletter-bg.jpg') no-repeat center/cover;
+      background: url('images/newsletter-bg.jpg') no-repeat center/cover;
       
     }
 
