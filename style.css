@@ -1,0 +1,211 @@
+.btn-green {
+      background-color:  #2bac47;
+      color: white;
+    }
+    .btn-green:hover {
+      background-color:  #2bac47;
+      color: white;
+    }
+    .offer-card {
+      background-size: cover;
+      background-position: center;
+      min-height: 300px;
+      padding: 2rem;
+      color: #1a1a1a;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .btn-checkout {
+      background-color: #28a745;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-weight: bold;
+    }
+
+    .btn-checkout:hover {
+      background-color: #218838;
+    }
+
+    .overlay-bg {
+      padding: 1.5rem;
+      border-radius: 10px;
+      max-width: 300px;
+    }
+
+    .category-card img {
+      max-height: 200px;
+      object-fit: contain;
+    }
+
+    .category-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #1a1a2e;
+    }
+
+    .category-text {
+      color: #6c757d;
+    }
+
+    .section-title {
+      font-weight: 700;
+      font-size: 1.7rem;
+      color: #1a1a2e;
+    }
+
+    .section-title span {
+      color:  #2bac47;
+    }
+    .product-card {
+      border: 1px solid #dee2e6;
+      padding: 15px;
+      text-align: center;
+      position: relative;
+      background-color: #fff;
+      height: 100%;
+    }
+    .discount-badge {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background-color: #d1f7d6;
+      color:  #2bac47;
+      font-size: 0.9rem;
+      font-weight: bold;
+      padding: 4px 8px;
+    }
+    .product-title {
+      font-size: 1.4rem;
+      font-weight: 600;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #888;
+      font-size: 0.9rem;
+    }
+    .star-rating {
+      color: #ffc107;
+      margin: 5px 0;
+    }
+    .product-img {
+      width: 100%;
+      height: 140px;
+      object-fit: contain;
+      margin-bottom: 10px;
+    }
+    .deal-section {
+      margin-top: 20px;
+      background: url('deal-bg.jpg') no-repeat center/cover; 
+      padding: 60px 60px;
+      position: relative;
+    }
+    .deal-content {
+      color: #2b2b2b;
+    }
+    .deal-title {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+    .countdown-box {
+      background: white;
+      padding: 10px 15px;
+      margin-right: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    .countdown-box span {
+      display: block;
+      text-align: center;
+      font-size: 1.2rem;
+    }
+    .countdown-box small {
+      text-align: center;
+      background-color: #2e2e80;
+      color: #fff;
+      padding: 2px 4px;
+      font-size: 0.8rem;
+      margin-top: 4px;
+    }
+    .contact-title {
+      text-align: center;
+      font-weight: bold;
+      margin-bottom: 40px;
+      font-size: 2rem;
+    }
+    .contact-title span {
+      color: #28a745;
+    }
+    .subscribe-section {
+      background: #f4f4f4;
+      padding: 50px 0;
+      text-align: center;
+      background: url('newsletter-bg.jpg') no-repeat center/cover;
+      
+    }
+
+    .subscribe-input {
+      max-width: 600px;
+      margin: 20px auto;
+      display: flex;
+      border: 10px solid #ccc;
+    }
+
+    .subscribe-input input {
+      flex: 1;
+      border: none;
+      padding: 10px;
+    }
+
+    .subscribe-input button {
+      border: none;
+      background-color: #28a745;
+      color: #fff;
+      padding: 0 30px;
+    }
+
+    .footer {
+      background-color: #ffffff;
+      padding: 30px  60px;
+      margin-left: 50px;
+    }
+
+    .footer h5 {
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+
+    .footer a {
+      color: #212529;
+      display: block;
+      margin-bottom: 8px;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: #28a745;
+    }
+
+    .footer .social-icons a {
+      display: inline-block;
+      background-color: #28a745;
+      color: white;
+      width: 35px;
+      height: 35px;
+      text-align: center;
+      line-height: 35px;
+      margin-right: 8px;
+    }
+
+    .footer-bottom {
+      text-align: center;
+      padding: 20px 0;
+      border-top: 2px solid #ddd;
+      font-size: 1rem;
+    }
+
+    .footer-bottom span {
+      color: #28a745;
+      font-weight: 800;
+    }
